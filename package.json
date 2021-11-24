@@ -1,0 +1,15 @@
+{
+  "name": "windicss",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "esbuild": "^0.13.15",
+    "vite": "^2.6.4",
+    "vite-plugin-windicss": "^1.5.1",
+    "windicss": "^3.2.1"
+  }
+}
